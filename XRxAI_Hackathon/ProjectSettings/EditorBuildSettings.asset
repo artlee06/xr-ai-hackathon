@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/App.unity
     guid: 39660ba748acb472a890b0e69330cadb
+  - enabled: 1
+    path: Assets/Scenes/SetDressingScene.unity
+    guid: 5c2799f001ac5a84e84a4ba7c6f484b1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf30094b44d8e0d458d87bcc3d051a6e, type: 2}
